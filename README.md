@@ -27,3 +27,7 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 - `browser.sh` launches Microsoft Edge through the flatpak command, forwarding any command-line arguments to the browser
 - `kiosk.sh` calls `browser.sh` with a url received as argument, adding various switches to configure Edge in kiosk mode optimized for Deck
 - `xcloud.sh` calls `kiosk.sh` with the xCloud launch page as a url, forwarding the first argument as a game ID. If no ID is provided, the website redirects you to the xCloud home page (This redirect behavior may break in the future at the will of Xbox)
+
+## Troubleshooting
+**I accndentally launched the kiosk or xcloud script from desktop mode and I can't exit**
+Press L5 at the back of the Steam Deck to unfocus from the window. If this fails, hold Start+Back until Steam notifies you of a controller layout change from Controller to Desktop.
