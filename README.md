@@ -40,9 +40,11 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 2. If this fails, hold Start+Back until Steam notifies you of a controller layout change from Controller to Desktop, then press L5 again
 
 **The scripts aren't running/are showing errors**
+
 Ensure the scripts are located under the Home directory, specifically `/home/deck/` for Steam Deck.
 
 **Xbox is showing an error page**
+
 Verify the game/console ID is correct, then try again. It may also be an issue on Xbox's end.
 
 **During setup, I am not seeing the option *Always hide scrollbars***
