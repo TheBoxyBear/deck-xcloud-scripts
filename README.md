@@ -30,4 +30,5 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 
 ## Troubleshooting
 **I accndentally launched the kiosk or xcloud script from desktop mode and I can't exit**
+
 Press L5 at the back of the Steam Deck to unfocus from the window. If this fails, hold Start+Back until Steam notifies you of a controller layout change from Controller to Desktop.
