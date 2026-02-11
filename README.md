@@ -24,3 +24,8 @@ Adding artwork:
 Bonus features:
 - Add `browser.sh` to Steam to add Microsoft Edge to your library
 - Add `kiosk.sh` to Steam and give it a url as a launch option to convert any web app into a Steam app
+
+How it works:
+- `browser.sh` launches Microsoft Edge through the flatpak command, forwarding any command-line arguments to the browser
+- `kiosk.sh` calls `browser.sh` with a url received as argument, adding various switches to configure Edge in kiosk mode optimized for Deck
+- `xcloud.sh` calls `kiosk.sh` with the xCloud launch page as a url, forwarding the first argument as a game ID. If no ID is provided, the website redirects you to the xCloud home page (This redirect behavior may break in the future at the will of Xbox)
