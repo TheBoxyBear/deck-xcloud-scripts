@@ -19,6 +19,11 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 2. From gaming mode, install the SteamGridDB plugin
 3. Navigate to shortcut and select `Change Artwork`. This will pull artwork from SteamGridDB to apply based on the shortcut name
 
+## Using remote play
+1. Find your remote play console ID. It will be the sequence of letters and numebrs at the end of the url when in a remtoe play session
+2. Add `xhome.sh` to Steam
+3. Add your console ID as a launch option
+
 ## Bonus features
 - Add `browser.sh` to Steam to add Microsoft Edge to your library
 - Add `kiosk.sh` to Steam and give it a url as a launch option to convert any web app into a Steam app
