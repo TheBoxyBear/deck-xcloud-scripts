@@ -7,12 +7,12 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 3. Install Mcirosoft Edge from flatpak or the Discover store
 4. Run the `xcloud-setup` script. This will configure Edge to recogize controller input as well as open a browser window for the next step
 5. In the newly open window, navigate to **Settings>Appearance>Browser behavior and features** and disable **Always show scrollbars**
-6. Right-click `xcloud.sh` and select **Add to Steam** Launching this shortcut will open the xCloud home page in a fullscreen view. For the preview experience, use `xcloud-preview.sh`
+6. Right-click `xcloud.sh` and select **Add to Steam** Launching this shortcut will open the xCloud home page in a fullscreen view. For the preview experience on `play.xbox.com`, add `xcloud-preview.sh` instead.
 
 ## Adding game shortcuts
 1. Find the game ID. It will at the end of the url on a game's page as a set of random letters and numbers
 2. Right-click `xcloud.sh` or `xcloud-preview.sh` and select **Add to Steam**
-3. Open the Steam shortcut properties on the newly created duplicate shortcut and add the game ID as a launch option
+3. Open the properties on the newly created duplicate shortcut and add the game ID as a launch option
 4. Set the game title as the shortcut name
 
 ## Adding artwork
