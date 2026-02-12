@@ -23,7 +23,12 @@ I am currently working on an app to streamline this process, similar to adding s
 3. Navigate to shortcut and select **Change Artwork...**. This will pull artwork from SteamGridDB to apply based on the shortcut name
 
 ## Using remote play
-1. Find your remote play console ID. It will be the sequence of letters and numebrs at the end of the url when in a remtoe play session
+### Obtaining your console remote play ID
+To setup remote play to directly connect to your console, you must first find the console's remote play ID. There are two main ways:
+- Start a remote play session and copy the ID as the sequence of numbers and letters at the end of the url
+- On the console, navigate to **Settings>System>Console info**. The ID will be listed under *Xbox network device ID*
+
+1. Find your remote play console ID. It will be the sequence of letters and numebrs at the end of the url when in a remtoe play sessio
 2. Add `xhome.sh` to Steam
 3. Add your console ID as a launch option
 
