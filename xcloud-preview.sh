@@ -8,4 +8,4 @@ fi
 
 echo $shortcut
 
-/home/deck/kiosk.sh play.xbox.com/${shortcut}
+./kiosk.sh play.xbox.com/${shortcut}

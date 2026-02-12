@@ -6,4 +6,4 @@ else
     shortcut=""
 fi
 
-/home/deck/kiosk.sh xbox.com/play/consoles/${shortcut}
+./kiosk.sh xbox.com/play/consoles/${shortcut}

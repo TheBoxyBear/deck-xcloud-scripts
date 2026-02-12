@@ -2,7 +2,7 @@
 Set of simple shell scripts for creating xCloud web based shortcuts for Steam Deck or other Linux handhelds.
 
 ## Setup
-1. Copy the `.sh` files from this repo to your Home directory. (Download from GitHub or run `git clone https://github.com/TheBoxyBear/deck-xcloud-scripts` in Konsole)
+1. Copy the `.sh` files from this repo to a directory of your choice. (Download from GitHub or run `git clone https://github.com/TheBoxyBear/deck-xcloud-scripts` in Konsole)
 2. Check the file permissions on the scripts to ensure you are able to run them as a program
 3. Install Mcirosoft Edge from flatpak or the Discover store
 4. Run the `xcloud-setup` script. This will configure Edge to recogize controller input as well as open a browser window for the next step
@@ -41,7 +41,7 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 
 **The scripts aren't running/are showing errors**
 
-Ensure the scripts are located under the Home directory, specifically `/home/deck/` for Steam Deck.
+Ensure the scripts are all located under the same directory. When launching from Steam, verify both the location and working directory of the shortcut.
 
 **Xbox is showing an error page**
 
