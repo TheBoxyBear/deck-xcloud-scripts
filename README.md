@@ -8,6 +8,7 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 4. Run the `xcloud-setup` script. This will configure Edge to recogize controller input as well as open a browser window for the next step
 5. In the newly open window, navigate to **Settings>Appearance>Browser behavior and features** and disable **Always show scrollbars**
 6. Right-click `xcloud.sh` and select **Add to Steam** Launching this shortcut will open the xCloud home page in a fullscreen view. For the preview experience at `play.xbox.com`, add `xcloud-preview.sh` instead.
+7. Name the shortcut *Xbox Cloud Gaming*. This will make it easier to find relevant artwork later
 
 ## Adding game shortcuts
 1. Find the game ID. It will at the end of the url on a game's page as a set of random letters and numbers
@@ -28,6 +29,7 @@ To setup remote play to directly connect to your console, you must first find th
 - Start a remote play session and copy the ID as the sequence of numbers and letters at the end of the url
 - On the console, navigate to **Settings>System>Console info**. The ID will be listed under *Xbox network device ID*
 
+## Creating the shortcut
 1. Find your remote play console ID. It will be the sequence of letters and numebrs at the end of the url when in a remtoe play sessio
 2. Add `xhome.sh` to Steam
 3. Add your console ID as a launch option
