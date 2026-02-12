@@ -15,6 +15,8 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 3. Open the properties on the newly created duplicate shortcut and add the game ID as a launch option
 4. Set the game title as the shortcut name
 
+I am currently working on an app to streamline this process, similar to adding shortcuts in XBPlay.
+
 ## Adding artwork
 1. Install Decky Loader from https://decky.xyz/
 2. From gaming mode, install the SteamGridDB plugin
