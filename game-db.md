@@ -100,7 +100,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Aquapark io: Platinum Edition](https://xbox.com/play/games/9MWQT5SCP5Q5) | QubicGames S.A. | AQUAPARKIO | 9MWQT5SCP5Q5 |
 | [Aragami 2](https://xbox.com/play/games/9PN9WG83X4XF) | Lince Works | ARAGAMI2 | 9PN9WG83X4XF |
 | [Arcade Paradise](https://xbox.com/play/games/9N2FQCGWH32D) | Wired Productions | ARCADEPARADISE | 9N2FQCGWH32D |
-| [Arcade Paradise | High Score Edition](https://xbox.com/play/games/9N2QGP2GMZCP) | Wired Productions | ARCADEPARADISE | 9N2QGP2GMZCP |
+| [Arcade Paradise &#124; High Score Edition](https://xbox.com/play/games/9N2QGP2GMZCP) | Wired Productions | ARCADEPARADISE | 9N2QGP2GMZCP |
 | [Arcadia Fallen](https://xbox.com/play/games/9N45RGC4PS81) | Galdra Studios | ARCADIAFALLEN | 9N45RGC4PS81 |
 | [Architect Life - Deluxe Home Edition](https://xbox.com/play/games/9NKGKJSN96V1) | Nacon | ARCHITECTLIFEAHOUSEDESIGNSIMULATOR | 9NKGKJSN96V1 |
 | [Architect Life: A House Design Simulator](https://xbox.com/play/games/9NB7K17WZX0L) | Nacon | ARCHITECTLIFEAHOUSEDESIGNSIMULATOR | 9NB7K17WZX0L |
@@ -389,7 +389,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Construction Simulator - Titanium Edition](https://xbox.com/play/games/9NRRLLM1W90D) | astragon Entertainment GmbH | CONSTRUCTIONSIMULATOR | 9NRRLLM1W90D |
 | [Contrast](https://xbox.com/play/games/BSLTQT4L0RLV) | Xbox Game Studios | CONTRAST | BSLTQT4L0RLV |
 | [Control](https://xbox.com/play/games/BZ6W9LRPC26W) | 505 Games | CONTROL | BZ6W9LRPC26W |
-| [Control Ultimate Edition - Xbox Series X|S](https://xbox.com/play/games/9P4D0K92BM7V) | Remedy Entertainment Plc. | CONTROLULTIMATEEDITIONXBOXSERIESXS | 9P4D0K92BM7V |
+| [Control Ultimate Edition - Xbox Series X&#124;S](https://xbox.com/play/games/9P4D0K92BM7V) | Remedy Entertainment Plc. | CONTROLULTIMATEEDITIONXBOXSERIESXS | 9P4D0K92BM7V |
 | [Control:Override](https://xbox.com/play/games/9N73W1728BG8) | Brain Station 23 | CONTROLOVERRIDE | 9N73W1728BG8 |
 | [Cooking Simulator](https://xbox.com/play/games/9N3DKKRHSJBT) | Big Cheese Studio | COOKINGSIMULATOR | 9N3DKKRHSJBT |
 | [Coral Island](https://xbox.com/play/games/9N1T1MQ92PVS) | Humble Games | CORALISLANDGAMEPREVIEW | 9N1T1MQ92PVS |
@@ -440,7 +440,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [CyberCorp](https://xbox.com/play/games/9P814JNRHPFC) | Megame LLC | CYBERCORP | 9P814JNRHPFC |
 | [CyberTD](https://xbox.com/play/games/9NN066DTTWWS) | Clockwork Origins | CYBERTD | 9NN066DTTWWS |
 | [Cyberpunk 2077](https://xbox.com/play/games/BX3M8L83BBRW) | CD PROJEKT RED | CYBERPUNK2077 | BX3M8L83BBRW |
-| [Cyberpunk 2077: Ultimate Edition (Xbox Series X|S)](https://xbox.com/play/games/9P9G5WX8C0VH) | CD PROJEKT RED | CYBERPUNK2077 | 9P9G5WX8C0VH |
+| [Cyberpunk 2077: Ultimate Edition (Xbox Series X&#124;S)](https://xbox.com/play/games/9P9G5WX8C0VH) | CD PROJEKT RED | CYBERPUNK2077 | 9P9G5WX8C0VH |
 | [DAVE THE DIVER](https://xbox.com/play/games/9PC1ZMD65L0T) | MINTROCKET | DAVETHEDIVER | 9PC1ZMD65L0T |
 | [DEATH STRANDING DIRECTOR'S CUT](https://xbox.com/play/games/9NQGN8TGNT8P) | 505 Games | DEATHSTRANDINGDIRECTORSCUT | 9NQGN8TGNT8P |
 | [DEATHLOOP](https://xbox.com/play/games/9P5Z4530318L) | Bethesda Softworks | DEATHLOOP | 9P5Z4530318L |
@@ -865,15 +865,15 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Grace of Letoile](https://xbox.com/play/games/9N060Z8B3BNF) | KEMCO | GRACEOFLETOILE | 9N060Z8B3BNF |
 | [Grand Poker Casino](https://xbox.com/play/games/9PNPXW25QWDT) | Dolores Entertainment | GRANDPOKERCASINO | 9PNPXW25QWDT |
 | [Grand Prix Story](https://xbox.com/play/games/9NXN3L4LZC81) | Kairosoft | GRANDPRIXSTORY | 9NXN3L4LZC81 |
-| [Grand Theft Auto Online (Xbox Series X|S)](https://xbox.com/play/games/9NKC1Z4Z92VN) | Rockstar Games | GRANDTHEFTAUTOONLINEXBOXSERIESXS | 9NKC1Z4Z92VN |
-| [Grand Theft Auto V (Xbox Series X|S)](https://xbox.com/play/games/9NXMBTB02ZSF) | Rockstar Games | GRANDTHEFTAUTOONLINEXBOXSERIESXS | 9NXMBTB02ZSF |
+| [Grand Theft Auto Online (Xbox Series X&#124;S)](https://xbox.com/play/games/9NKC1Z4Z92VN) | Rockstar Games | GRANDTHEFTAUTOONLINEXBOXSERIESXS | 9NKC1Z4Z92VN |
+| [Grand Theft Auto V (Xbox Series X&#124;S)](https://xbox.com/play/games/9NXMBTB02ZSF) | Rockstar Games | GRANDTHEFTAUTOONLINEXBOXSERIESXS | 9NXMBTB02ZSF |
 | [Grand Theft Auto V: Premium Edition](https://xbox.com/play/games/C496CLVXMJP8) | Rockstar Games | GRANDTHEFTAUTOVXBOXONE | C496CLVXMJP8 |
 | [Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle](https://xbox.com/play/games/C54H8FDKTJPG) | Rockstar Games | GRANDTHEFTAUTOVXBOXONE | C54H8FDKTJPG |
 | [Graveyard Keeper](https://xbox.com/play/games/C11GZGMKRTCV) | tinyBuild | GRAVEYARDKEEPER | C11GZGMKRTCV |
 | [Graveyard Keeper: Last Journey Edition](https://xbox.com/play/games/9PPJV0ZDBSKT) | tinyBuild | GRAVEYARDKEEPER | 9PPJV0ZDBSKT |
 | [Great God Grove](https://xbox.com/play/games/9N36BLQF3FX6) | Fellow Traveller | GREATGODGROVE | 9N36BLQF3FX6 |
 | [Greek Tragedy](https://xbox.com/play/games/9NSVWSQLRQWT) | Pineapple Works | GREEKTRAGEDY | 9NSVWSQLRQWT |
-| [Green Hell Xbox Series X|S](https://xbox.com/play/games/9NVJ7NZX1WL2) | Creepy Jar | GREENHELLXBOXSERIESXS | 9NVJ7NZX1WL2 |
+| [Green Hell Xbox Series X&#124;S](https://xbox.com/play/games/9NVJ7NZX1WL2) | Creepy Jar | GREENHELLXBOXSERIESXS | 9NVJ7NZX1WL2 |
 | [Grim Dawn: Definitive Edition](https://xbox.com/play/games/9PNQ7KRWCRW3) | Crate Entertainment | GRIMDAWNDEFINITIVEEDITION | 9PNQ7KRWCRW3 |
 | [Grim Fandango Remastered](https://xbox.com/play/games/9PC288TN7R8K) | Xbox Game Studios | GRIMFANDANGOREMASTERED | 9PC288TN7R8K |
 | [Grounded](https://xbox.com/play/games/9PJTHRNVH62H) | Xbox Game Studios | GROUNDED | 9PJTHRNVH62H |
@@ -1233,11 +1233,11 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [MARVEL Cosmic Invasion](https://xbox.com/play/games/9N79TQTZTQQ4) | Dotemu | MARVELCOSMICINVASION | 9N79TQTZTQQ4 |
 | [MASSIVE CHALICE](https://xbox.com/play/games/C2484ZR2BWNQ) | Double Fine Productions, Inc. | MASSIVECHALICE | C2484ZR2BWNQ |
 | [METRO QUESTER](https://xbox.com/play/games/9PGRQXG1C6MP) | KEMCO | METROQUESTER | 9PGRQXG1C6MP |
-| [METRO QUESTER | OSAKA](https://xbox.com/play/games/9P36DMP74M92) | KEMCO | METROQUESTEROSAKA | 9P36DMP74M92 |
+| [METRO QUESTER &#124; OSAKA](https://xbox.com/play/games/9P36DMP74M92) | KEMCO | METROQUESTEROSAKA | 9P36DMP74M92 |
 | [MIDNIGHT Remastered](https://xbox.com/play/games/9MWZ6225P313) | Mad Jackal Games | MIDNIGHTREMASTERED | 9MWZ6225P313 |
 | [MIO: Memories in Orbit](https://xbox.com/play/games/9NP86K57SQM3) | Focus Entertainment | MIOMEMORIESINORBIT | 9NP86K57SQM3 |
 | [MLB® The Show™ 21 Xbox™ One Standard Edition](https://xbox.com/play/games/9PNF5J31C36N) | MLB | MLBTHESHOW21XBOXONE | 9PNF5J31C36N |
-| [MLB® The Show™ 21 Xbox™ Series X|S Standard Edition](https://xbox.com/play/games/9NC8F83CQB76) | MLB | MLBTHESHOW21XBOXSERIESXS | 9NC8F83CQB76 |
+| [MLB® The Show™ 21 Xbox™ Series X&#124;S Standard Edition](https://xbox.com/play/games/9NC8F83CQB76) | MLB | MLBTHESHOW21XBOXSERIESXS | 9NC8F83CQB76 |
 | [MLB® The Show™ 22 Xbox One](https://xbox.com/play/games/9PGXV4NZV6XK) | MLB | MLBTHESHOW22XBOXONE | 9PGXV4NZV6XK |
 | [MLB® The Show™ 23 Xbox One](https://xbox.com/play/games/9PN66M6V02CC) | MLB | MLBTHESHOW23XBOXONE | 9PN66M6V02CC |
 | [MLB® The Show™ 24 - Xbox One Standard Edition](https://xbox.com/play/games/9NK2SCJP5MGZ) | MLB | MLBTHESHOW24XBOXONE | 9NK2SCJP5MGZ |
@@ -1273,10 +1273,10 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Martha Is Dead](https://xbox.com/play/games/9PM6SJBMVQZL) | Wired Productions | MARTHAISDEAD | 9PM6SJBMVQZL |
 | [Marvel's Guardians of the Galaxy](https://xbox.com/play/games/9PGLL77C201J) | Eidos Interactive Corporation | MARVELSGUARDIANSOFTHEGALAXY | 9PGLL77C201J |
 | [Marvel's Midnight Suns Digital+ Edition for Xbox One](https://xbox.com/play/games/9NPHNLJTCZC2) | 2K | MARVELSMIDNIGHTSUNSFORXBOXONE | 9NPHNLJTCZC2 |
-| [Marvel's Midnight Suns Digital+ Edition for Xbox Series X|S](https://xbox.com/play/games/9NB52QBS4ZDB) | 2K | MARVELSMIDNIGHTSUNSFORXBOXSERIESXS | 9NB52QBS4ZDB |
+| [Marvel's Midnight Suns Digital+ Edition for Xbox Series X&#124;S](https://xbox.com/play/games/9NB52QBS4ZDB) | 2K | MARVELSMIDNIGHTSUNSFORXBOXSERIESXS | 9NB52QBS4ZDB |
 | [Marvel's Midnight Suns Enhanced Edition](https://xbox.com/play/games/9NZV28P1ZMQ0) | 2K | MARVELSMIDNIGHTSUNSFORXBOXSERIESXS | 9NZV28P1ZMQ0 |
 | [Marvel's Midnight Suns Legendary Edition for Xbox One](https://xbox.com/play/games/9PN089KML0BL) | 2K | MARVELSMIDNIGHTSUNSFORXBOXONE | 9PN089KML0BL |
-| [Marvel's Midnight Suns Legendary Edition for Xbox Series X|S](https://xbox.com/play/games/9PCVWW89JKVW) | 2K | MARVELSMIDNIGHTSUNSFORXBOXSERIESXS | 9PCVWW89JKVW |
+| [Marvel's Midnight Suns Legendary Edition for Xbox Series X&#124;S](https://xbox.com/play/games/9PCVWW89JKVW) | 2K | MARVELSMIDNIGHTSUNSFORXBOXSERIESXS | 9PCVWW89JKVW |
 | [Marvel's Midnight Suns for Xbox One](https://xbox.com/play/games/9NS10SXBG0HX) | 2K | MARVELSMIDNIGHTSUNSFORXBOXONE | 9NS10SXBG0HX |
 | [Mass Effect™ Legendary Edition](https://xbox.com/play/games/9PKWHT7G60WQ) | Electronic Arts | MASSEFFECTLEGENDARYEDITION | 9PKWHT7G60WQ |
 | [Mass Effect™: Andromeda – Deluxe Recruit Edition](https://xbox.com/play/games/BNFFDT1JNVRL) | Electronic Arts | MASSEFFECTANDROMEDA | BNFFDT1JNVRL |
@@ -1405,7 +1405,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [NARAKA: BLADEPOINT](https://xbox.com/play/games/9P8SQQJ5T94B) | NetEase | NARAKABLADEPOINT | 9P8SQQJ5T94B |
 | [NBA 2K26 Superstar Edition](https://xbox.com/play/games/9NTMWS185JZT) | 2K | NBA2K26FORXBOXSERIESXS | 9NTMWS185JZT |
 | [NBA 2K26 for Xbox One](https://xbox.com/play/games/9PP9PFSCJTWR) | 2K | NBA2K26FORXBOXONE | 9PP9PFSCJTWR |
-| [NBA 2K26 for Xbox Series X|S](https://xbox.com/play/games/9NFKCJNBR34N) | 2K | NBA2K26FORXBOXSERIESXS | 9NFKCJNBR34N |
+| [NBA 2K26 for Xbox Series X&#124;S](https://xbox.com/play/games/9NFKCJNBR34N) | 2K | NBA2K26FORXBOXSERIESXS | 9NFKCJNBR34N |
 | [NBA BOUNCE](https://xbox.com/play/games/9MVZTH17V753) | Outright Games Ltd. | NBABOUNCE | 9MVZTH17V753 |
 | [NBA BOUNCE - GOAT: The Movie: Deluxe Edition](https://xbox.com/play/games/9N4R0Q7VT6JL) | Outright Games Ltd. | NBABOUNCE | 9N4R0Q7VT6JL |
 | [NHL 25 Standard Edition](https://xbox.com/play/games/9PG1BLKTSNZC) | Electronic Arts | NHL25XBOXSERIESXS | 9PG1BLKTSNZC |
@@ -1735,9 +1735,9 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Rush: A DisneyPixar Adventure](https://xbox.com/play/games/9P3PL76N0KWZ) | Xbox Game Studios | RUSHDISNEYPIXAR | 9P3PL76N0KWZ |
 | [Rust Console Edition - Deluxe](https://xbox.com/play/games/9P0LR428JQH9) | Double Eleven Ltd. | RUSTCONSOLEEDITION | 9P0LR428JQH9 |
 | [Rust Console Edition - Ultimate](https://xbox.com/play/games/9NVZHMNWGKF5) | Double Eleven Ltd. | RUSTCONSOLEEDITION | 9NVZHMNWGKF5 |
-| [Rust Console Edition X|S](https://xbox.com/play/games/9PJVJ4WF031H) | Double Eleven Ltd. | RUSTCONSOLEEDITIONXS | 9PJVJ4WF031H |
-| [Rust Console Edition X|S - Deluxe](https://xbox.com/play/games/9N1204MH6DXR) | Double Eleven Ltd. | RUSTCONSOLEEDITIONXS | 9N1204MH6DXR |
-| [Rust Console Edition X|S - Ultimate](https://xbox.com/play/games/9NQ7991WPX1Z) | Double Eleven Ltd. | RUSTCONSOLEEDITIONXS | 9NQ7991WPX1Z |
+| [Rust Console Edition X&#124;S](https://xbox.com/play/games/9PJVJ4WF031H) | Double Eleven Ltd. | RUSTCONSOLEEDITIONXS | 9PJVJ4WF031H |
+| [Rust Console Edition X&#124;S - Deluxe](https://xbox.com/play/games/9N1204MH6DXR) | Double Eleven Ltd. | RUSTCONSOLEEDITIONXS | 9N1204MH6DXR |
+| [Rust Console Edition X&#124;S - Ultimate](https://xbox.com/play/games/9NQ7991WPX1Z) | Double Eleven Ltd. | RUSTCONSOLEEDITIONXS | 9NQ7991WPX1Z |
 | [Ryse: Legendary Edition](https://xbox.com/play/games/C4F7ZHLN6B2J) | Microsoft | RYSESONOFROME | C4F7ZHLN6B2J |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition](https://xbox.com/play/games/9P7ZBF3S7PSS) | GSC Game World | STALKER2HEARTOFCHORNOBYLXBOXEDITION | 9P7ZBF3S7PSS |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl Deluxe Edition – Xbox Edition](https://xbox.com/play/games/9NNL3VXXX23G) | GSC Game World | STALKER2HEARTOFCHORNOBYLXBOXEDITION | 9NNL3VXXX23G |
@@ -1956,11 +1956,11 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [SteamWorld Heist II](https://xbox.com/play/games/9PKDRFTHFWMV) |  Thunderful Publishing | STEAMWORLDHEISTII | 9PKDRFTHFWMV |
 | [Steep X Games Gold Edition](https://xbox.com/play/games/BXZG8RW2ZMNC) | Ubisoft | STEEP | BXZG8RW2ZMNC |
 | [Stellaris: Console Edition](https://xbox.com/play/games/BWL72GR7Z7GK) | Paradox Interactive | STELLARISDELUXE | BWL72GR7Z7GK |
-| [Stellaris: Console Edition (X|S)](https://xbox.com/play/games/9MW2X7FQ4ZG9) | Paradox Interactive | STELLARISCONSOLEEDITIONXS | 9MW2X7FQ4ZG9 |
+| [Stellaris: Console Edition (X&#124;S)](https://xbox.com/play/games/9MW2X7FQ4ZG9) | Paradox Interactive | STELLARISCONSOLEEDITIONXS | 9MW2X7FQ4ZG9 |
 | [Stellaris: Console Edition - Deluxe Edition](https://xbox.com/play/games/BZ4T3D950PWZ) | Paradox Interactive | STELLARISDELUXE | BZ4T3D950PWZ |
-| [Stellaris: Console Edition - Deluxe Edition (X|S)](https://xbox.com/play/games/9NDJK4ZVRGV6) | Paradox Interactive | STELLARISCONSOLEEDITIONXS | 9NDJK4ZVRGV6 |
+| [Stellaris: Console Edition - Deluxe Edition (X&#124;S)](https://xbox.com/play/games/9NDJK4ZVRGV6) | Paradox Interactive | STELLARISCONSOLEEDITIONXS | 9NDJK4ZVRGV6 |
 | [Stellaris: Console Edition - Starter Edition](https://xbox.com/play/games/9NV1R1W34HGC) | Paradox Interactive | STELLARISDELUXE | 9NV1R1W34HGC |
-| [Stellaris: Console Edition - Starter Edition (X|S)](https://xbox.com/play/games/9PLNP7TM2G7Z) | Paradox Interactive | STELLARISCONSOLEEDITIONXS | 9PLNP7TM2G7Z |
+| [Stellaris: Console Edition - Starter Edition (X&#124;S)](https://xbox.com/play/games/9PLNP7TM2G7Z) | Paradox Interactive | STELLARISCONSOLEEDITIONXS | 9PLNP7TM2G7Z |
 | [StickType](https://xbox.com/play/games/9N46B8WQR3P0) | Mike Palotas | STICKTYPE | 9N46B8WQR3P0 |
 | [StickType Ultimate Bundle](https://xbox.com/play/games/9NWBL5RPKV4M) | Mike Palotas | STICKTYPE | 9NWBL5RPKV4M |
 | [Still Wakes the Deep](https://xbox.com/play/games/9N88DFRX8WCJ) | Secret Mode | STILLWAKESTHEDEEP | 9N88DFRX8WCJ |
@@ -2065,7 +2065,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [The Big Con](https://xbox.com/play/games/9P01R01ZJ9BX) | Skybound Games | THEBIGCON | 9P01R01ZJ9BX |
 | [The Bookwalker: Thief of Tales](https://xbox.com/play/games/9NXGGWMFM446) | tinyBuild | THEBOOKWALKERTHIEFOFTALES | 9NXGGWMFM446 |
 | [The Bunker](https://xbox.com/play/games/BXKJN3WVT1C2) | Wales Interactive | THEBUNKER | BXKJN3WVT1C2 |
-| [The Callisto Protocol™ for Xbox Series X|S](https://xbox.com/play/games/9N1L0KL84B56) | KRAFTON, Inc. | THECALLISTOPROTOCOLFORXBOXSERIESXS | 9N1L0KL84B56 |
+| [The Callisto Protocol™ for Xbox Series X&#124;S](https://xbox.com/play/games/9N1L0KL84B56) | KRAFTON, Inc. | THECALLISTOPROTOCOLFORXBOXSERIESXS | 9N1L0KL84B56 |
 | [The Case of the Golden Idol](https://xbox.com/play/games/9NBH78WD7XPQ) | Playstack | THECASEOFTHEGOLDENIDOL | 9NBH78WD7XPQ |
 | [The Casting of Frank Stone™](https://xbox.com/play/games/9PG0PMB5Q0GT) | Behaviour Interactive | THECASTINGOFFRANKSTONE | 9PG0PMB5Q0GT |
 | [The Casting of Frank Stone™ Deluxe Edition](https://xbox.com/play/games/9N65B7SMVZ2B) | Behaviour Interactive | THECASTINGOFFRANKSTONE | 9N65B7SMVZ2B |
@@ -2074,7 +2074,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [The Crew 2 Special Edition](https://xbox.com/play/games/9N6Q97VF35KW) | UBISOFT | THECREW2 | 9N6Q97VF35KW |
 | [The Crew Motorfest](https://xbox.com/play/games/9NNS41P5J1C7) | UBISOFT | THECREWMOTORFESTXBOXONE | 9NNS41P5J1C7 |
 | [The Crew Motorfest - Xbox One](https://xbox.com/play/games/9PB5JN044BHZ) | UBISOFT | THECREWMOTORFESTXBOXONE | 9PB5JN044BHZ |
-| [The Crew Motorfest - Xbox Series X|S](https://xbox.com/play/games/9NTB0ZG811GR) | UBISOFT | THECREWMOTORFESTXBOXSERIESXS | 9NTB0ZG811GR |
+| [The Crew Motorfest - Xbox Series X&#124;S](https://xbox.com/play/games/9NTB0ZG811GR) | UBISOFT | THECREWMOTORFESTXBOXSERIESXS | 9NTB0ZG811GR |
 | [The Crew® 2 Special Edition](https://xbox.com/play/games/9P5V3QQPKLXN) | UBISOFT | THECREW2 | 9P5V3QQPKLXN |
 | [The Crew® 2 Standard Edition](https://xbox.com/play/games/BV05F8VT7JJ4) | Ubisoft | THECREW2 | BV05F8VT7JJ4 |
 | [The Crown of Wu](https://xbox.com/play/games/9PDNKZ70QC7L) | Meridiem Games S.L. | THECROWNOFWU | 9PDNKZ70QC7L |
