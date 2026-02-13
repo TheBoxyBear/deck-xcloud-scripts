@@ -16,6 +16,8 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 3. Open the properties on the newly created duplicate shortcut and add the store ID as a launch option
 4. Set the game title as the shortcut name
 
+If the game you're looking for is missing, check that it's available in the could play catalog, then report is here as an [Issue](https://github.com/TheBoxyBear/deck-xcloud-scripts/issues).
+
 I am currently working on an app to streamline this process, similar to adding shortcuts in XBPlay.
 
 ## Adding artwork
