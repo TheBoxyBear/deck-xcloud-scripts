@@ -53,6 +53,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Abiotic Factor - Supporter's Edition](https://xbox.com/play/games/9MZVD0JQ0FDH) | Playstack Ltd | 9MZVD0JQ0FDH | ABIOTICFACTOR |
 | [Abyssal Drift](https://xbox.com/play/games/9PP11S01XRNT) | Rebelião Studio | 9PP11S01XRNT | ABYSSALDRIFT |
 | [Ace Attorney Investigations Collection](https://xbox.com/play/games/9P25VS66VJVN) | CAPCOM CO., LTD. | 9P25VS66VJVN | ACEATTORNEYINVESTIGATIONSCOLLECTION |
+| [Achilles: Legends Untold](https://xbox.com/play/games/9NLQZLBDKT3Q) | Dark Point Games S.A. | 9NLQZLBDKT3Q | ACHILLESLEGENDSUNTOLD |
 | [Adios](https://xbox.com/play/games/9PGRS6WW78MB) | Mischief | 9PGRS6WW78MB | ADIOS |
 | [Against the Storm](https://xbox.com/play/games/9NRLRJPV4HWL) | Hooded Horse | 9NRLRJPV4HWL | AGAINSTTHESTORM |
 | [Against the Storm - Complete Edition](https://xbox.com/play/games/9NZ5SWP5W71T) | Hooded Horse | 9NZ5SWP5W71T | AGAINSTTHESTORM |
@@ -62,6 +63,9 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Age of Empires IV: Anniversary Edition](https://xbox.com/play/games/9PHH1ZWRSZ41) | Xbox Game Studios | 9PHH1ZWRSZ41 | AGEOFEMPIRESIVANNIVERSARYEDITION |
 | [Age of Mythology: Retold](https://xbox.com/play/games/9NPKGVXPFRSX) | Xbox Game Studios | 9NPKGVXPFRSX | AGEOFMYTHOLOGYRETOLDSTANDARDEDITION |
 | [Age of Mythology: Retold Premium Edition](https://xbox.com/play/games/9NN144QSW0T0) | Xbox Game Studios | 9NN144QSW0T0 | AGEOFMYTHOLOGYRETOLDSTANDARDEDITION |
+| [Age of Water](https://xbox.com/play/games/9PL6TM39DN7D) | Gaijin Distribution Kft | 9PL6TM39DN7D | AGEOFWATER |
+| [Age of Water - Gold Edition](https://xbox.com/play/games/9PM35FPJLJ7D) | Gaijin Distribution Kft | 9PM35FPJLJ7D | AGEOFWATER |
+| [Age of Water - Silver Edition](https://xbox.com/play/games/9N76RXK7RWFG) | Gaijin Distribution Kft | 9N76RXK7RWFG | AGEOFWATER |
 | [Age of Wonders 4](https://xbox.com/play/games/9NW6LB2HXH17) | Paradox Interactive | 9NW6LB2HXH17 | AGEOFWONDERS4 |
 | [Age of Wonders 4: Collector's Bundle](https://xbox.com/play/games/9MW7N4BSBHC2) | Paradox Interactive | 9MW7N4BSBHC2 | AGEOFWONDERS4 |
 | [Age of Wonders 4: Premium Edition](https://xbox.com/play/games/9PK1D30WX6M1) | Paradox Interactive | 9PK1D30WX6M1 | AGEOFWONDERS4 |
@@ -223,6 +227,10 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [BlazBlue Entropy Effect X](https://xbox.com/play/games/9N8H4RRSRV2S) | 91Act | 9N8H4RRSRV2S | BLAZBLUEENTROPYEFFECTX |
 | [Bleeding Edge](https://xbox.com/play/games/9NX6XGVJ0J3D) | Xbox Game Studios | 9NX6XGVJ0J3D | BLEEDINGEDGE |
 | [Blindfire (Game Preview)](https://xbox.com/play/games/9NR81PCSLLB6) | Double Eleven Ltd. | 9NR81PCSLLB6 | BLINDFIREGAMEPREVIEW |
+| [Blood Bowl 3](https://xbox.com/play/games/9N0BT2QC646K) | Nacon | 9N0BT2QC646K | BLOODBOWL3 |
+| [Blood Bowl 3 - Black Orcs Edition](https://xbox.com/play/games/9N7DX95HLDF4) | Nacon | 9N7DX95HLDF4 | BLOODBOWL3 |
+| [Blood Bowl 3 - Brutal Edition](https://xbox.com/play/games/9PFMBQ9QR8HK) | Nacon | 9PFMBQ9QR8HK | BLOODBOWL3 |
+| [Blood Bowl 3 - Imperial Nobility Edition](https://xbox.com/play/games/9NP7CZ2SVWZL) | Nacon | 9NP7CZ2SVWZL | BLOODBOWL3 |
 | [Blood West](https://xbox.com/play/games/9P18XZ6GCLFG) | New Blood Interactive | 9P18XZ6GCLFG | BLOODWEST |
 | [Blood West: Dead Man's Edition](https://xbox.com/play/games/9PJ3WR812QB2) | New Blood Interactive | 9PJ3WR812QB2 | BLOODWEST |
 | [Bloodroots](https://xbox.com/play/games/9MXPZ33Z9PWH) | Paper Cult | 9MXPZ33Z9PWH | BLOODROOTS |
@@ -312,11 +320,14 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Carnival Survivors The Parade](https://xbox.com/play/games/9P9X48VMZZNH) | Lucky Raccoon Games | 9P9X48VMZZNH | CARNIVALSURVIVORSTHEPARADE |
 | [Carrion](https://xbox.com/play/games/9NPKKNBJ258V) | Devolver Digital | 9NPKKNBJ258V | CARRION |
 | [Cars 3: Driven to Win](https://xbox.com/play/games/BZKS084ZSXJ4) | Warner Bros. Games | BZKS084ZSXJ4 | CARS3DRIVENTOWIN |
+| [Cartel Tycoon](https://xbox.com/play/games/9NRR1ZXG0ZZ8) | tinyBuild | 9NRR1ZXG0ZZ8 | CARTELTYCOON |
+| [Cartel Tycoon - Deluxe Edition](https://xbox.com/play/games/9PC9GP9CPQ4N) | tinyBuild | 9PC9GP9CPQ4N | CARTELTYCOON |
 | [Cash Cleaner Simulator](https://xbox.com/play/games/9NQNLN91CKM9) | Forklift Interactive Inc. | 9NQNLN91CKM9 | CASHCLEANERSIMULATOR |
 | [Cassette Beasts](https://xbox.com/play/games/9N82SNQTZVMQ) | Raw Fury | 9N82SNQTZVMQ | CASSETTEBEASTS |
 | [Cassette Beasts - New Wirral Edition](https://xbox.com/play/games/9NNF9D2XN4KJ) | Raw Fury | 9NNF9D2XN4KJ | CASSETTEBEASTS |
 | [Cassette Beasts: Deluxe Edition](https://xbox.com/play/games/9P3MN5SQH69B) | Raw Fury | 9P3MN5SQH69B | CASSETTEBEASTS |
 | [Castle Crashers Remastered](https://xbox.com/play/games/C10GWTNNNBZ8) | The Behemoth | C10GWTNNNBZ8 | CASTLECRASHERSREMASTERED |
+| [Cat Quest III](https://xbox.com/play/games/9P89Z4P8JP0B) | Kepler Interactive | 9P89Z4P8JP0B | CATQUESTIII |
 | [Celeste](https://xbox.com/play/games/BWMQL2RPWBHB) | Matt Makes Games Inc. | BWMQL2RPWBHB | CELESTE |
 | [Cell Scientists: Beyond](https://xbox.com/play/games/9N727VK4QXG1) | R-Next | 9N727VK4QXG1 | CELLSCIENTISTSBEYOND |
 | [Century: Age of Ashes](https://xbox.com/play/games/9NRMXFFD3K13) | Playwing LTD | 9NRMXFFD3K13 | CENTURYAGEOFASHES |
@@ -338,6 +349,8 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Chants of Sennaar](https://xbox.com/play/games/9NR8V6M3QH57) | Focus Entertainment | 9NR8V6M3QH57 | CHANTSOFSENNAAR |
 | [Charon's Staircase](https://xbox.com/play/games/9NNGKZ8M770X) | SOEDESCO | 9NNGKZ8M770X | CHARONSSTAIRCASE |
 | [Chasm: The Rift](https://xbox.com/play/games/9PFBG52PQ6JQ) | SNEG | 9PFBG52PQ6JQ | CHASMTHERIFT |
+| [Chef Life - AL FORNO EDITION](https://xbox.com/play/games/9PK52D3FDTVV) | Nacon | 9PK52D3FDTVV | CHEFLIFEARESTAURANTSIMULATOR |
+| [Chef Life: A Restaurant Simulator](https://xbox.com/play/games/9PGMWSRZNVRB) | Nacon | 9PGMWSRZNVRB | CHEFLIFEARESTAURANTSIMULATOR |
 | [Cherry Tower](https://xbox.com/play/games/9MZLLZZ2VL88) | Webnetic s. r. o. | 9MZLLZZ2VL88 | CHERRYTOWER |
 | [Chess Gambit](https://xbox.com/play/games/9PJS4RFWL6L2) | e-llusiontertainment | 9PJS4RFWL6L2 | CHESSGAMBIT |
 | [Chess Royal](https://xbox.com/play/games/9PKQVQ5916H5) | Silesia Games Sp. z o.o. | 9PKQVQ5916H5 | CHESSROYAL |
@@ -366,6 +379,10 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Clair Obscur: Expedition 33 – Deluxe Edition](https://xbox.com/play/games/9N2VXS6JVJW9) | Kepler Interactive | 9N2VXS6JVJW9 | CLAIROBSCUREXPEDITION33 |
 | [Clone Drone in the Danger Zone](https://xbox.com/play/games/9NKHKBQJSSC3) | Doborog Games | 9NKHKBQJSSC3 | CLONEDRONEINTHEDANGERZONE |
 | [CloverPit](https://xbox.com/play/games/9P8V7HR160B4) | Future Friends Games | 9P8V7HR160B4 | CLOVERPIT |
+| [Clue](https://xbox.com/play/games/9NSQLMXB0F4F) | Marmalade Game Studio Ltd. | 9NSQLMXB0F4F | CLUEDO |
+| [Clue Deluxe Edition](https://xbox.com/play/games/9N7D1V7GLSR7) | Marmalade Game Studio | 9N7D1V7GLSR7 | CLUEDO |
+| [Clue The Black Adder Edition](https://xbox.com/play/games/9P3D5X6WMK3M) | Marmalade Game Studios | 9P3D5X6WMK3M | CLUEDO |
+| [Clue: Ultimate Edition](https://xbox.com/play/games/9PK58SB95J83) | Marmalade Game Studio | 9PK58SB95J83 | CLUEDO |
 | [Cocoon](https://xbox.com/play/games/9N3FPS4LDHCR) | Annapurna Interactive | 9N3FPS4LDHCR | COCOON |
 | [Coffee Talk](https://xbox.com/play/games/9N17CM38WNN8) | Chorus Worldwide Games | 9N17CM38WNN8 | COFFEETALK |
 | [Coffee Talk Episode 2: Hibiscus and Butterfly](https://xbox.com/play/games/9N4DC4325HLM) | Chorus Worldwide Games | 9N4DC4325HLM | COFFEETALKEPISODE2HIBISCUSANDBUTTERFLY |
@@ -469,6 +486,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [DREDGE](https://xbox.com/play/games/9MSVVM5NS9L6) | Team17 | 9MSVVM5NS9L6 | DREDGE |
 | [DREDGE - Digital Deluxe Edition](https://xbox.com/play/games/9P95H49KSS5J) | Team17 | 9P95H49KSS5J | DREDGE |
 | [DREDGE: Complete Edition](https://xbox.com/play/games/9N227SPK42ZT) | Team17 | 9N227SPK42ZT | DREDGE |
+| [DRIFTCE](https://xbox.com/play/games/9N4JG8S6N9HS) | 505 Games | 9N4JG8S6N9HS | DRIFTCE |
 | [DUSK](https://xbox.com/play/games/9PC06GV6FRNH) | New Blood Interactive | 9PC06GV6FRNH | DUSK |
 | [DYNABLASTER](https://xbox.com/play/games/9NHN30D462N2) | BBG Entertainment GmbH | 9NHN30D462N2 | DYNABLASTER |
 | [Dance of Cards](https://xbox.com/play/games/9NJN8CQQ1RS6) | Pineapple Works | 9NJN8CQQ1RS6 | DANCEOFCARDS |
@@ -525,6 +543,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Descenders Next (Game Preview)](https://xbox.com/play/games/9N66JJQFX3RX) | No More Robots | 9N66JJQFX3RX | DESCENDERSNEXTGAMEPREVIEW |
 | [Despot's Game](https://xbox.com/play/games/9P5ZDVMCJMFD) | tinyBuild | 9P5ZDVMCJMFD | DESPOTSGAME |
 | [Despot's Game Collector's Edition](https://xbox.com/play/games/9P09B96B33T7) | tinyBuild | 9P09B96B33T7 | DESPOTSGAME |
+| [Destroy All Humans! 2 Reprobed](https://xbox.com/play/games/9NTTXWGDVCDQ) | THQ Nordic | 9NTTXWGDVCDQ | DESTROYALLHUMANS2REPROBED |
 | [Detective Dotson](https://xbox.com/play/games/9NXGD1ZLJ1JL) | Masala Games Private Limited | 9NXGD1ZLJ1JL | DETECTIVEDOTSON |
 | [Dicey Dungeons](https://xbox.com/play/games/9PC4C9NLP3ZD) | Distractionware Limited | 9PC4C9NLP3ZD | DICEYDUNGEONS |
 | [Die Again](https://xbox.com/play/games/9NMC1FNLSKK8) | Catness Game Studios | 9NMC1FNLSKK8 | DIEAGAIN |
@@ -575,6 +594,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Dreamed Away](https://xbox.com/play/games/9NGDWKT5W8HV) | Pineapple Works | 9NGDWKT5W8HV | DREAMEDAWAY |
 | [Dreamscaper](https://xbox.com/play/games/9NB7FZ2GV5N1) | indie.io | 9NB7FZ2GV5N1 | DREAMSCAPER |
 | [Drop Duchy - Complete Edition](https://xbox.com/play/games/9NXVPTB0FXSZ) | The Arcade Crew | 9NXVPTB0FXSZ | DROPDUCHY |
+| [Drug Dealer Simulator](https://xbox.com/play/games/9P5692XXR0ZC) | Ultimate Games S.A. | 9P5692XXR0ZC | DRUGDEALERSIMULATOR |
 | [Duck Detective: The Secret Salami](https://xbox.com/play/games/9NXM59F1JKFD) | Happy Broccoli Games | 9NXM59F1JKFD | DUCKDETECTIVETHESECRETSALAMI |
 | [Dune: Spice Wars](https://xbox.com/play/games/9N46JZZNGS3P) | Funcom, Shiro Games | 9N46JZZNGS3P | DUNESPICEWARS |
 | [Dungeon Minesweeper](https://xbox.com/play/games/9PL244GZVHKZ) | Stamina Zero LLC | 9PL244GZVHKZ | DUNGEONMINESWEEPER |
@@ -621,6 +641,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Empire of the Ants](https://xbox.com/play/games/9P82CBM74SRG) | Microids | 9P82CBM74SRG | EMPIREOFTHEANTS |
 | [Enlisted](https://xbox.com/play/games/9NHKL695M9F2) | Gaijin Distribution Kft | 9NHKL695M9F2 | ENLISTED |
 | [Enlisted Xbox One](https://xbox.com/play/games/9PF432CVQBXT) | Gaijin Distribution Kft | 9PF432CVQBXT | ENLISTEDXBOXONE |
+| [Enotria: The Last Song](https://xbox.com/play/games/9N061LQ9H5GQ) | Jyamma Games Srl | 9N061LQ9H5GQ | ENOTRIATHELASTSONG |
 | [Enter The Gungeon](https://xbox.com/play/games/9NB65S6LFZRT) | Devolver Digital | 9NB65S6LFZRT | ENTERTHEGUNGEON |
 | [Epic Astro Story](https://xbox.com/play/games/9NSH0NQPGWWT) | Kairosoft | 9NSH0NQPGWWT | EPICASTROSTORY |
 | [Escape 2088](https://xbox.com/play/games/9MZ68NKXF91D) | OnSkull Development IKE | 9MZ68NKXF91D | ESCAPE2088 |
@@ -730,6 +751,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Five Nights at Freddy's 2](https://xbox.com/play/games/9NBR2ZSD99FX) | Clickteam LLC USA | 9NBR2ZSD99FX | FIVENIGHTSATFREDDYS2 |
 | [Five Nights at Freddy's 3](https://xbox.com/play/games/9P6N7LQ4HZFD) | Clickteam LLC USA | 9P6N7LQ4HZFD | FIVENIGHTSATFREDDYS3 |
 | [Five Nights at Freddy's 4](https://xbox.com/play/games/9PLDLMPLR7JV) | Clickteam LLC USA | 9PLDLMPLR7JV | FIVENIGHTSATFREDDYS4 |
+| [Five Nights at Freddy's Into the Pit](https://xbox.com/play/games/9PMP3DDWDRNW) | Mega Cat Studios | 9PMP3DDWDRNW | FIVENIGHTSATFREDDYSINTOTHEPIT |
 | [Five Nights at Freddy's: Security Breach](https://xbox.com/play/games/9NMP8KFRTNCD) | ScottGames | 9NMP8KFRTNCD | FIVENIGHTSATFREDDYSSECURITYBREACH |
 | [Five Nights at Freddy's: Sister Location](https://xbox.com/play/games/9NDH606JXLWJ) | Clickteam LLC USA | 9NDH606JXLWJ | FIVENIGHTSATFREDDYSSISTERLOCATION |
 | [Flint: Treasure of Oblivion](https://xbox.com/play/games/9NLWB2L8CVJF) | Microids | 9NLWB2L8CVJF | FLINTTREASUREOFOBLIVION |
@@ -794,6 +816,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Gang Blast](https://xbox.com/play/games/9P87R45C0X03) | Entity3 Limited | 9P87R45C0X03 | GANGBLAST |
 | [Garden Bundle](https://xbox.com/play/games/9NL1XC3GBMG8) | Frozen District | 9NL1XC3GBMG8 | HOUSEFLIPPER |
 | [Garden Story](https://xbox.com/play/games/9PP09MJRH2XD) | Rose City Games, Kowloon Nights | 9PP09MJRH2XD | GARDENSTORY |
+| [Garten of Banban 2](https://xbox.com/play/games/9NVGLN84XJ8Z) | Feardemic | 9NVGLN84XJ8Z | GARTENOFBANBAN2 |
 | [Gas Station Simulator](https://xbox.com/play/games/9NH6JRWC8MTZ) | MD Games S.A. | 9NH6JRWC8MTZ | GASSTATIONSIMULATOR |
 | [Gas Station Simulator and Airstrip DLC Bundle](https://xbox.com/play/games/9PP507NQD1K4) | MD Games S.A. | 9PP507NQD1K4 | GASSTATIONSIMULATOR |
 | [Gas Station Simulator and Can Touch This DLC Bundle](https://xbox.com/play/games/9NG5769GXTVS) | MD Games S.A. | 9NG5769GXTVS | GASSTATIONSIMULATOR |
@@ -824,6 +847,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Ghostwire: Tokyo Deluxe Edition](https://xbox.com/play/games/9NWDL03WDJP1) | Bethesda Softworks | 9NWDL03WDJP1 | GHOSTWIRETOKYO |
 | [Giant Rush](https://xbox.com/play/games/9P0R8X51KDPH) | QubicGames S.A. | 9P0R8X51KDPH | GIANTRUSH |
 | [Giant Rush: Complete Edition](https://xbox.com/play/games/9N46QBNQFDQK) | QubicGames S.A. | 9N46QBNQFDQK | GIANTRUSH |
+| [GigaBash](https://xbox.com/play/games/9NQ1N709V0TV) | Passion Republic Games | 9NQ1N709V0TV | GIGABASH |
 | [Gigantic: Rampage Edition](https://xbox.com/play/games/9PGG5GF9326C) | Arc Games | 9PGG5GF9326C | GIGANTICRAMPAGEEDITION |
 | [Gigantosaurus: Dino Sports](https://xbox.com/play/games/9NLDWLFWKFZH) | Outright Games Ltd. | 9NLDWLFWKFZH | GIGANTOSAURUSDINOSPORTS |
 | [Glitch Hero](https://xbox.com/play/games/9MZ2TB1NHKZC) | Artax Games | 9MZ2TB1NHKZC | GLITCHHERO |
@@ -921,6 +945,8 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Harry Potter: Quidditch Champions Deluxe Edition](https://xbox.com/play/games/9N62QDRLNQVV) | Warner Bros. Games | 9N62QDRLNQVV | HARRYPOTTERQUIDDITCHCHAMPIONS |
 | [Harvest Moon: Light of Hope SE Complete](https://xbox.com/play/games/9NTMGQG1LBD9) | Natsume Inc. | 9NTMGQG1LBD9 | HARVESTMOONLIGHTOFHOPESECOMPLETE |
 | [Harvest Moon: Mad Dash](https://xbox.com/play/games/9ND1VD3Q5Q0B) | Natsume Inc. | 9ND1VD3Q5Q0B | HARVESTMOONMADDASH |
+| [Harvest Moon: The Winds of Anthos](https://xbox.com/play/games/9PF0QP2LQZ2T) | Natsume Inc. | 9PF0QP2LQZ2T | HARVESTMOONTHEWINDSOFANTHOS |
+| [Harvest Moon: The Winds of Anthos Bundle](https://xbox.com/play/games/9NZCW3RH94S4) | Natsume Inc. | 9NZCW3RH94S4 | HARVESTMOONTHEWINDSOFANTHOS |
 | [Hatsune Miku - The Planet Of Wonder And Fragments Of Wishes](https://xbox.com/play/games/9NZ4HJML97RS) | Crypton Future Media | 9NZ4HJML97RS | HATSUNEMIKUTHEPLANETOFWONDERANDFRAGMENTSOFWISHES |
 | [Hatsune Miku Jigsaw Puzzle](https://xbox.com/play/games/9N4RM0TSQQBM) | Crypton Future Media | 9N4RM0TSQQBM | HATSUNEMIKUJIGSAWPUZZLE |
 | [Hatsune Miku Logic Paint S](https://xbox.com/play/games/9P7TBCQ0W7TQ) | Crypton Future Media | 9P7TBCQ0W7TQ | HATSUNEMIKULOGICPAINTSBASE |
@@ -930,6 +956,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Haven](https://xbox.com/play/games/9NZL91Q08XRV) | The Game Bakers | 9NZL91Q08XRV | HAVEN |
 | [Headbangers: Rhythm Royale](https://xbox.com/play/games/9NGRWJ03GR1N) | Team17 | 9NGRWJ03GR1N | HEADBANGERSRHYTHMROYALE |
 | [Headbangers: Rhythm Royale - Digital Deluxe Edition](https://xbox.com/play/games/9NBWC6XHQHTP) | Team17 | 9NBWC6XHQHTP | HEADBANGERSRHYTHMROYALE |
+| [Heavy Cargo - The Truck Simulator](https://xbox.com/play/games/9P8VDLFPL073) | Aerosoft GmbH | 9P8VDLFPL073 | HEAVYCARGOTHETRUCKSIMULATOR |
 | [Hegzis](https://xbox.com/play/games/9PFC3NCZ0XHP) | Eastasiasoft Limited | 9PFC3NCZ0XHP | HEGZIS |
 | [Helix Jump](https://xbox.com/play/games/9MSZ4G5BH2K7) | QubicGames S.A. | 9MSZ4G5BH2K7 | HELIXJUMP |
 | [Helix Jump: Complete Edition](https://xbox.com/play/games/9P892KW36PMM) | QubicGames S.A. | 9P892KW36PMM | HELIXJUMP |
@@ -959,6 +986,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [High On Life + DLC Bundle](https://xbox.com/play/games/9NWMJR0C0FRS) | Squanch Games, Inc. | 9NWMJR0C0FRS | HIGHONLIFE |
 | [High On Life 2](https://xbox.com/play/games/9NF6XPSBTTGB) | Squanch Games, Inc. | 9NF6XPSBTTGB | HIGHONLIFE2 |
 | [High Sea Saga DX](https://xbox.com/play/games/9PG52KFBFGM2) | Kairosoft | 9PG52KFBFGM2 | HIGHSEASAGADX |
+| [Hobo: Tough Life](https://xbox.com/play/games/9P0XXJBN4XW8) | Perun Creative | 9P0XXJBN4XW8 | HOBOTOUGHLIFE |
 | [Hogwarts Legacy](https://xbox.com/play/games/9MT5NJ5W7B8Z) | Warner Bros. Games | 9MT5NJ5W7B8Z | HOGWARTSLEGACYXBOXSERIESXSVERSION |
 | [Hogwarts Legacy Xbox One Version](https://xbox.com/play/games/9NK4NTBFWW81) | Warner Bros. Games | 9NK4NTBFWW81 | HOGWARTSLEGACYXBOXONEVERSION |
 | [Hole Theory](https://xbox.com/play/games/9MX8TQ5VQ67S) | Webnetic s. r. o. | 9MX8TQ5VQ67S | HOLETHEORY |
@@ -981,6 +1009,8 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Hot Wheels Let's Race™: Ultimate Speed](https://xbox.com/play/games/9PMC1QZKTSR4) | GameMill Entertainment | 9PMC1QZKTSR4 | HOTWHEELSLETSRACEULTIMATESPEED |
 | [Hot Wheels Monster Trucks: Stunt Mayhem™](https://xbox.com/play/games/9P69RDT766Q6) | GameMill Entertainment | 9P69RDT766Q6 | HOTWHEELSMONSTERTRUCKSSTUNTMAYHEM |
 | [Hot Wheels Monster Trucks: Stunt Mayhem™ Deluxe Edition](https://xbox.com/play/games/9MTC0Z5TMCQ9) | GameMill Entertainment | 9MTC0Z5TMCQ9 | HOTWHEELSMONSTERTRUCKSSTUNTMAYHEM |
+| [Hotel Renovator](https://xbox.com/play/games/9NWV5Q7M7DJQ) | Focus Entertainment | 9NWV5Q7M7DJQ | HOTELRENOVATOR |
+| [Hotel Renovator – Five Star Edition](https://xbox.com/play/games/9NWFRXLHXXJ0) | Focus Entertainment | 9NWFRXLHXXJ0 | HOTELRENOVATOR |
 | [Hotline Miami](https://xbox.com/play/games/9MV27QPRQRRF) | Devolver Digital | 9MV27QPRQRRF | HOTLINEMIAMI |
 | [House Flipper](https://xbox.com/play/games/9NBFGKQLMV33) | Frozen District | 9NBFGKQLMV33 | HOUSEFLIPPER |
 | [House Flipper 2](https://xbox.com/play/games/9N67Z2D5PHW2) | Frozen District | 9N67Z2D5PHW2 | HOUSEFLIPPER2 |
@@ -1039,6 +1069,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Isonzo: Ultimate Edition](https://xbox.com/play/games/9PBLLZC7H7P9) | BlackMill Games | 9PBLLZC7H7P9 | ISONZO |
 | [It Takes Two - Digital Version](https://xbox.com/play/games/9NXVC0482QS5) | Electronic Arts | 9NXVC0482QS5 | ITTAKESTWO |
 | [It Takes Two - Friend's Pass](https://xbox.com/play/games/9NMG7ZJ9XK0H) | Electronic Arts | 9NMG7ZJ9XK0H | ITTAKESTWO |
+| [Jagged Alliance 3](https://xbox.com/play/games/9PJDQ1MKWN3D) | THQ Nordic | 9PJDQ1MKWN3D | JAGGEDALLIANCE3 |
 | [Jetpac Refuelled](https://xbox.com/play/games/BRRVN5198461) | Microsoft Studios | BRRVN5198461 | JETPACREFUELLED |
 | [Jinshin](https://xbox.com/play/games/9MZ69CFLLFVH) | KEMCO | 9MZ69CFLLFVH | JINSHIN |
 | [Johnny Trigger](https://xbox.com/play/games/9P0WC158XS26) | QubicGames S.A. | 9P0WC158XS26 | JOHNNYTRIGGER |
@@ -1074,6 +1105,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Just Dance 2026 Edition - Ultimate Edition](https://xbox.com/play/games/9NP9ZBSJ9HTJ) | Ubisoft | 9NP9ZBSJ9HTJ | JUSTDANCE |
 | [Just Dance Free Experience](https://xbox.com/play/games/9P0LHV4DV2BG) | Ubisoft | 9P0LHV4DV2BG | JUSTDANCE |
 | [Just Dance® 2023 Edition](https://xbox.com/play/games/9NNF99GPP4XW) | UBISOFT | 9NNF99GPP4XW | JUSTDANCE |
+| [Just Shapes & Beats](https://xbox.com/play/games/9NNW297ZM810) | Berzerk Studio | 9NNW297ZM810 | JUSTSHAPESBEATS |
 | [Justice Chronicles](https://xbox.com/play/games/9N45JD7NR5BT) | KEMCO | 9N45JD7NR5BT | JUSTICECHRONICLES |
 | [KARMA: The Dark World](https://xbox.com/play/games/9PBTRH54WM9Q) | Wired Productions | 9PBTRH54WM9Q | KARMATHEDARKWORLD |
 | [KARMA: The Dark World - Digital Deluxe Bundle](https://xbox.com/play/games/9MSSLW12PFSP) | Wired Productions | 9MSSLW12PFSP | KARMATHEDARKWORLD |
@@ -1100,6 +1132,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Killer Instinct: Anniversary Edition](https://xbox.com/play/games/9N2HB4MWG7HM) | Xbox Game Studios | 9N2HB4MWG7HM | KILLERINSTINCT |
 | [Killing Floor 2](https://xbox.com/play/games/BSB132ZQVWZM) | Tripwire Interactive | BSB132ZQVWZM | KILLINGFLOOR2 |
 | [Killing Floor 2 - Ultimate Edition](https://xbox.com/play/games/9MZ9PFRP8N20) | Tripwire Interactive | 9MZ9PFRP8N20 | KILLINGFLOOR2 |
+| [King Arthur: Knight's Tale](https://xbox.com/play/games/9NLQ6HBNZC53) | NeocoreGames | 9NLQ6HBNZC53 | KINGARTHURKNIGHTSTALE |
 | [King of Meat](https://xbox.com/play/games/9PPB3ZRFG3R1) | Amazon Games | 9PPB3ZRFG3R1 | KINGOFMEAT |
 | [King of Meat - Deluxe Edition](https://xbox.com/play/games/9NTQ55CVH7RH) | Amazon Games | 9NTQ55CVH7RH | KINGOFMEAT |
 | [King of Meat - Standard Edition](https://xbox.com/play/games/9N6HL9DLVG8H) | Amazon Games | 9N6HL9DLVG8H | KINGOFMEAT |
@@ -1211,6 +1244,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Little Noah: Scion of Paradise Special Edition](https://xbox.com/play/games/9N74G6B9G7Q2) | Cygames, Inc. | 9N74G6B9G7Q2 | LITTLENOAHSCIONOFPARADISE |
 | [Little Rocket Lab](https://xbox.com/play/games/9N3M5D5ZSW34) | No More Robots | 9N3M5D5ZSW34 | LITTLEROCKETLAB |
 | [Little Town Hero](https://xbox.com/play/games/9NW0HVLB2GNG) | GAME FREAK inc. | 9NW0HVLB2GNG | LITTLETOWNHERO |
+| [Little Witch in the Woods (Game Preview)](https://xbox.com/play/games/9PM9ZVWT18WR) | SUNNY SIDE UP | 9PM9ZVWT18WR | LITTLEWITCHINTHEWOODSGAMEPREVIEW |
 | [Lonely Mountains: Downhill](https://xbox.com/play/games/9MV6MCVLT8GR) | Megagon Industries | 9MV6MCVLT8GR | LONELYMOUNTAINSDOWNHILL |
 | [Lonely Mountains: Downhill - Complete Bundle](https://xbox.com/play/games/9MX1M5WNBCSS) | Megagon Industries | 9MX1M5WNBCSS | LONELYMOUNTAINSDOWNHILL |
 | [Lonely Mountains: Snow Riders](https://xbox.com/play/games/9PF3MC3V9Q27) | Megagon Industries | 9PF3MC3V9Q27 | LONELYMOUNTAINSSNOWRIDERS |
@@ -1244,6 +1278,10 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [MLB® The Show™ 25 - Digital Deluxe Edition](https://xbox.com/play/games/9MVCD6G47HJK) | MLB | 9MVCD6G47HJK | MLBTHESHOW25 |
 | [MLB® The Show™ 25 Standard Edition](https://xbox.com/play/games/9PJ6W7RC6H71) | MLB | 9PJ6W7RC6H71 | MLBTHESHOW25 |
 | [MONOPOLY® Madness](https://xbox.com/play/games/9P0RGJND5SR0) | Ubisoft | 9P0RGJND5SR0 | MONOPOLYMADNESS |
+| [MORDHAU](https://xbox.com/play/games/9PP6C21NFP4Z) | Triternion | 9PP6C21NFP4Z | MORDHAU |
+| [MORDHAU - Diamond Edition](https://xbox.com/play/games/9N7F4FQJLWD9) | Triternion | 9N7F4FQJLWD9 | MORDHAU |
+| [MORDHAU - Gold Edition](https://xbox.com/play/games/9N0PXW8HH8RG) | Triternion | 9N0PXW8HH8RG | MORDHAU |
+| [MORDHAU - Platinum Edition](https://xbox.com/play/games/9N2J4X8FWXHH) | Triternion | 9N2J4X8FWXHH | MORDHAU |
 | [MULLET MADJACK](https://xbox.com/play/games/9PG8TV30NN9H) | Epopeia Games | 9PG8TV30NN9H | MULLETMADJACK |
 | [MUSYNX Deluxe Edition](https://xbox.com/play/games/9P2NJ8KWHNGJ) | E-Home Entertianment Development Co., Ltd | 9P2NJ8KWHNGJ | THEMUSYNX |
 | [MUSYNX Song Pass bundle](https://xbox.com/play/games/9NP8XXLN8L36) | E-Home Entertianment Development Co., Ltd | 9NP8XXLN8L36 | THEMUSYNX |
@@ -1380,7 +1418,6 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Mummy Pinball](https://xbox.com/play/games/9NX284JVG8N7) | Super PowerUP Games | 9NX284JVG8N7 | MUMMYPINBALL |
 | [Munchkin: Quacked Quest](https://xbox.com/play/games/9N80L1CTZ86W) | Twin Sails Interactive | 9N80L1CTZ86W | MUNCHKINQUACKEDQUEST |
 | [Musical Vibes RX](https://xbox.com/play/games/9N04G9Z7C0W2) | ZikWave Studios Inc. | 9N04G9Z7C0W2 | MUSICALVIBESRX |
-| [Musical Vibes RX: Total Vibes Vol. 5](https://xbox.com/play/games/9NSNNC7JC94L) | ZikWave Studios Inc. | 9NSNNC7JC94L | MUSICALVIBESRX |
 | [Mutant Year Zero: Road to Eden](https://xbox.com/play/games/9NMP9B9KMKLF) | Funcom | 9NMP9B9KMKLF | MUTANTYEARZEROROADTOEDEN |
 | [Mutant Year Zero: Road to Eden - Deluxe Edition](https://xbox.com/play/games/9P23B1MH8LCL) | Funcom | 9P23B1MH8LCL | MUTANTYEARZEROROADTOEDEN |
 | [Mute Crimson DX](https://xbox.com/play/games/9PM4DX0M36JT) | Iced Lizard Games LLC | 9PM4DX0M36JT | MUTECRIMSONDX |
@@ -1409,6 +1446,9 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [NBA BOUNCE](https://xbox.com/play/games/9MVZTH17V753) | Outright Games Ltd. | 9MVZTH17V753 | NBABOUNCE |
 | [NBA BOUNCE - GOAT: The Movie: Deluxe Edition](https://xbox.com/play/games/9N4R0Q7VT6JL) | Outright Games Ltd. | 9N4R0Q7VT6JL | NBABOUNCE |
 | [NHL 25 Standard Edition](https://xbox.com/play/games/9PG1BLKTSNZC) | Electronic Arts | 9PG1BLKTSNZC | NHL25XBOXSERIESXS |
+| [NHRA Championship Drag Racing: Speed For All](https://xbox.com/play/games/9N7F0G73HB43) | GameMill Entertainment | 9N7F0G73HB43 | NHRACHAMPIONSHIPDRAGRACINGSPEEDFORALL |
+| [NHRA Championship Drag Racing: Speed for All - Deluxe Edition](https://xbox.com/play/games/9PKR2T3DH9LW) | GameMill Entertainment | 9PKR2T3DH9LW | NHRACHAMPIONSHIPDRAGRACINGSPEEDFORALL |
+| [NHRA Championship Drag Racing: Speed for All - Ultimate Edition](https://xbox.com/play/games/9NG5D5ZNHHB8) | GameMill Entertainment | 9NG5D5ZNHHB8 | NHRACHAMPIONSHIPDRAGRACINGSPEEDFORALL |
 | [NINJA GAIDEN 2 Black](https://xbox.com/play/games/9N51FH42VQDS) | KOEI TECMO AMERICA | 9N51FH42VQDS | NINJAGAIDEN2BLACK |
 | [NINJA GAIDEN 4 Deluxe Edition](https://xbox.com/play/games/9MZC0GX3R58G) | Xbox Game Studios | 9MZC0GX3R58G | NINJAGAIDEN4 |
 | [NINJA GAIDEN 4 Standard Edition](https://xbox.com/play/games/9N7358JZPX1Z) | Xbox Game Studios | 9N7358JZPX1Z | NINJAGAIDEN4 |
@@ -1495,6 +1535,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Orten Was The Case](https://xbox.com/play/games/9MZ0T8P6MD22) | Woodhill Interactive  | 9MZ0T8P6MD22 | ORTENWASTHECASE |
 | [Otherwar](https://xbox.com/play/games/9N00L1R82V22) | Take IT Studio! sp. z o. o. | 9N00L1R82V22 | OTHERWAR |
 | [Out of Line](https://xbox.com/play/games/9MZJL62F51Z6) | Hatinh Interactive | 9MZJL62F51Z6 | OUTOFLINE |
+| [Outcast - A New Beginning](https://xbox.com/play/games/9NPPDFD4HTL1) | THQ Nordic | 9NPPDFD4HTL1 | OUTCASTANEWBEGINNING |
 | [Outer Wilds](https://xbox.com/play/games/C596FKDKMQN7) | Annapurna Interactive | C596FKDKMQN7 | OUTERWILDS |
 | [Outer Wilds: Archaeologist Edition](https://xbox.com/play/games/9P9GXG7BJ42Q) | Annapurna Interactive | 9P9GXG7BJ42Q | OUTERWILDS |
 | [Overcooked! 2](https://xbox.com/play/games/BVJLKDG2TX8H) | Team17 Digital Ltd | BVJLKDG2TX8H | OVERCOOKED2 |
@@ -1622,6 +1663,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Psychonauts 2](https://xbox.com/play/games/9NBR2VXT87SJ) | Xbox Game Studios | 9NBR2VXT87SJ | PSYCHONAUTS2 |
 | [Puff Up](https://xbox.com/play/games/9PFLRKHLHL3G) | QubicGames S.A. | 9PFLRKHLHL3G | PUFFUP |
 | [Puff Up & 9 Minigames](https://xbox.com/play/games/9MX4HSDH61Q5) | QubicGames S.A. | 9MX4HSDH61Q5 | PUFFUP |
+| [Pummel Party](https://xbox.com/play/games/9P1V4FPR7NBL) | Rebuilt Games | 9P1V4FPR7NBL | PUMMELPARTY |
 | [Pupperazzi](https://xbox.com/play/games/9P34LH5ZWBVG) | Kitfox Games | 9P34LH5ZWBVG | PUPPERAZZI |
 | [PuzzlePet - Feed Your Cat](https://xbox.com/play/games/9P8RXNL2PXZT) | Afil Games | 9P8RXNL2PXZT | PUZZLEPETFEEDYOURCAT |
 | [Q.U.B.E. 10th Anniversary](https://xbox.com/play/games/9N5V7ZBPBS1L) | Toxic Games Limited | 9N5V7ZBPBS1L | QUBE10THANNIVERSARY |
@@ -1780,6 +1822,7 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Saints Row Gold Edition](https://xbox.com/play/games/9N8SZ4VHX3LT) | Deep Silver | 9N8SZ4VHX3LT | SAINTSROW |
 | [Saints Row IV: Re-Elected](https://xbox.com/play/games/BVCVS12P1H14) | Deep Silver | BVCVS12P1H14 | SAINTSROWIVREELECTED |
 | [Saints Row The Third Remastered](https://xbox.com/play/games/BXHMPV1JT9WH) | Deep Silver | BXHMPV1JT9WH | SAINTSROWTHETHIRDREMASTERED |
+| [Sally Face](https://xbox.com/play/games/9N1C74G2JXHM) | Portable Moose | 9N1C74G2JXHM | SALLYFACE |
 | [Samurai Aces](https://xbox.com/play/games/9N3S1ZSM6459) | City Connection | 9N3S1ZSM6459 | SAMURAIACES |
 | [Samurai Aces III: Sengoku Cannon](https://xbox.com/play/games/9PC0ZSZPS32V) | City Connection | 9PC0ZSZPS32V | SAMURAIACESIIISENGOKUCANNON |
 | [Sand Legends](https://xbox.com/play/games/9P2V0TL9TGD7) | Entity3 Limited | 9P2V0TL9TGD7 | SANDLEGENDS |
@@ -2010,12 +2053,14 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [THE FINALS](https://xbox.com/play/games/9PGD71CMDS0Z) | Embark Studios AB | 9PGD71CMDS0Z | THEFINALS |
 | [THE FINALS - Year 1 Deluxe Edition](https://xbox.com/play/games/9P8MCNKJ09GL) | Embark | 9P8MCNKJ09GL | THEFINALS |
 | [TOEM](https://xbox.com/play/games/9N7ZCLLR01B3) | Something We Made | 9N7ZCLLR01B3 | TOEM |
+| [TRAIL OUT](https://xbox.com/play/games/9P7FKZ8HXS2W) | Crytivo | 9P7FKZ8HXS2W | TRAILOUT |
 | [TRANSFORMERS: EARTHSPARK - Expedition](https://xbox.com/play/games/9NB68B7X3342) | Outright Games Ltd.  | 9NB68B7X3342 | TRANSFORMERSEARTHSPARKEXPEDITION |
 | [TRANSFORMERS: Galactic Trials](https://xbox.com/play/games/9PFLW2BJVZ94) | Outright Games Ltd. | 9PFLW2BJVZ94 | TRANSFORMERSGALACTICTRIALS |
 | [TRANSIRUBY](https://xbox.com/play/games/9N5PQQQ34BSR) | Flyhigh Works | 9N5PQQQ34BSR | TRANSIRUBY |
 | [TRIALS of MANA](https://xbox.com/play/games/9NHMR19TS1M0) | SQUARE ENIX | 9NHMR19TS1M0 | TRIALSOFMANA |
 | [TRIANGLE STRATEGY](https://xbox.com/play/games/9N0TCG0Z1NG4) | Square Enix | 9N0TCG0Z1NG4 | TRIANGLESTRATEGY |
 | [TRON: Catalyst](https://xbox.com/play/games/9PFXL9C1KJ26) | Big Fan Games | 9PFXL9C1KJ26 | TRONCATALYST |
+| [TT Isle Of Man: Ride on the Edge 3](https://xbox.com/play/games/9PBJ36QL2N9V) | Nacon | 9PBJ36QL2N9V | TTISLEOFMANRIDEONTHEEDGE3 |
 | [TUNIC](https://xbox.com/play/games/9NLRT31Z4RWM) | Finji | 9NLRT31Z4RWM | TUNIC |
 | [Tacoma](https://xbox.com/play/games/9P4WKZXWP1QW) | Fullbright | 9P4WKZXWP1QW | TACOMA |
 | [TactiCats](https://xbox.com/play/games/9NZ2Q7SVNT8C) | Pineapple Works | 9NZ2Q7SVNT8C | TACTICATS |
@@ -2348,6 +2393,8 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [Wargroove 2](https://xbox.com/play/games/9PBKCFF2FVB4) | Chucklefish | 9PBKCFF2FVB4 | WARGROOVE2 |
 | [Warhammer 40,000: Boltgun](https://xbox.com/play/games/9NP77PLZ7B3R) | Focus Entertainment | 9NP77PLZ7B3R | WARHAMMER40000BOLTGUN |
 | [Warhammer 40,000: Boltgun - Forges of Corruption Edition](https://xbox.com/play/games/9NN3X03HZGT9) | Focus Entertainment | 9NN3X03HZGT9 | WARHAMMER40000BOLTGUN |
+| [Warhammer 40,000: Chaos Gate - Daemonhunters](https://xbox.com/play/games/9N3TD93HSG5G) | Frontier Developments | 9N3TD93HSG5G | WARHAMMER40000CHAOSGATEDAEMONHUNTERS |
+| [Warhammer 40,000: Chaos Gate - Daemonhunters - Purifier Edition](https://xbox.com/play/games/9NM9TZM3VMJG) | Frontier Developments | 9NM9TZM3VMJG | WARHAMMER40000CHAOSGATEDAEMONHUNTERS |
 | [Warhammer 40,000: Darktide](https://xbox.com/play/games/9NT3WC6RKBVQ) | Fatshark | 9NT3WC6RKBVQ | WARHAMMER40000DARKTIDE |
 | [Warhammer 40,000: Darktide - Imperial Edition](https://xbox.com/play/games/9P1C361XMN7F) | Fatshark | 9P1C361XMN7F | WARHAMMER40000DARKTIDE |
 | [Warhammer 40,000: Rogue Trader](https://xbox.com/play/games/9P30BFHZ1BKN) | Owlcat Games | 9P30BFHZ1BKN | WARHAMMER40000ROGUETRADER |
@@ -2381,6 +2428,8 @@ Use this reference to create game shortcuts in your Steam library. Use the *Stor
 | [We Don't Cry: Zombie Survival](https://xbox.com/play/games/9N9FVGB63J4R) | Bored Alchemist | 9N9FVGB63J4R | WEDONTCRYZOMBIESURVIVAL |
 | [We Happy Few](https://xbox.com/play/games/BPR2TBS2KMQJ) | Gearbox Publishing | BPR2TBS2KMQJ | WEHAPPYFEW |
 | [We Happy Few Digital Deluxe](https://xbox.com/play/games/BT5397FJ3KTW) | Gearbox Publishing | BT5397FJ3KTW | WEHAPPYFEW |
+| [Welcome to ParadiZe](https://xbox.com/play/games/9P1FZ4X1QC5C) | Nacon | 9P1FZ4X1QC5C | WELCOMETOPARADIZE |
+| [Welcome to ParadiZe - Zombot Edition](https://xbox.com/play/games/9NGGB5VCMG69) | Nacon | 9NGGB5VCMG69 | WELCOMETOPARADIZE |
 | [Werewolf Pinball](https://xbox.com/play/games/9MV2TRX701DG) | Super PowerUP Games | 9MV2TRX701DG | WEREWOLFPINBALL |
 | [Whacking Hell!](https://xbox.com/play/games/9N77QPFDJ5DC) | Sanuk Games | 9N77QPFDJ5DC | WHACKINGHELL |
 | [What Remains of Edith Finch](https://xbox.com/play/games/BSLGLG8P9T01) | Annapurna Interactive | BSLGLG8P9T01 | EDITHFINCH |
