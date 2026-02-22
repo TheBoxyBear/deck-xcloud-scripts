@@ -32,9 +32,8 @@ To setup remote play to directly connect to your console, you must first find th
 - On the console, navigate to **Settings>System>Console info**. The ID will be listed under *Xbox network device ID*
 
 ## Creating the shortcut
-1. Find your remote play console ID. It will be the sequence of letters and numebrs at the end of the url when in a remtoe play sessio
-2. Add `xhome.sh` to Steam
-3. Add your console ID as a launch option
+1. Add `xhome.sh` to Steam
+2. Add your console ID as a launch option
 
 To access the consoles management page, launch the script with no launch options.
 
