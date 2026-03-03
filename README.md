@@ -11,14 +11,20 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 7. Name the shortcut *Xbox Cloud Gaming*. This will make it easier to find relevant artwork later
 
 ## Adding game shortcuts
+### Using xCloud To Steam
+1. Clone and build the [xcloud-to-steam](https://github.com/TheBoxyBear/xcloud-to-steam) repo
+2. Ensure the scripts are located under your user home directory
+3. Launch the app
+4. Select the games to add
+5. Click *Apply*
+
+### Adding manually
 1. Look for the game in the provided [xCloud database](https://github.com/TheBoxyBear/deck-xcloud-scripts/blob/main/game-db.md)
 2. Right-click `xcloud.sh` or `xcloud-preview.sh` and select **Add to Steam**
 3. Open the properties on the newly created duplicate shortcut and add the store ID as a launch option
 4. Set the game title as the shortcut name
 
 If the game you're looking for is missing, check that it's available in the could play catalog, then report is here as an [Issue](https://github.com/TheBoxyBear/deck-xcloud-scripts/issues).
-
-I am currently working on an app to streamline this process, similar to adding shortcuts in XBPlay.
 
 ## Adding artwork
 1. Install Decky Loader from https://decky.xyz/
