@@ -12,7 +12,7 @@ Set of simple shell scripts for creating xCloud web based shortcuts for Steam De
 
 ## Adding game shortcuts
 ### Using xCloud To Steam
-1. Clone and build the [xcloud-to-steam](https://github.com/TheBoxyBear/xcloud-to-steam) repo
+1. Download the latest release of [xCloud To Steam](https://github.com/TheBoxyBear/xcloud-to-steam/releases)
 2. Ensure the scripts are located under your user home directory
 3. Launch the app
 4. Select the games to add
